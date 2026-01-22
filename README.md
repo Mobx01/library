@@ -1,7 +1,7 @@
 # Library Book Management System  
 ### Agile Development with Git and Unit Testing (CS2042 – SWE Task 1)
 
-## 📌 Overview
+##  Overview
 
 This project is a **Library Book Management System** developed in **Python** as part of a Software Engineering assignment.  
 The primary goal of this project is to demonstrate **Agile sprint-based development**, **Git workflow discipline**, **unit testing**, and **traceability**, rather than building a large production system.
@@ -10,7 +10,7 @@ The system operates entirely using **in-memory data structures** (no database).
 
 ---
 
-## ✨ Features
+##  Features
 
 - Add books with Book ID, Title, and Author
 - Prevent duplicate Book IDs
@@ -22,7 +22,7 @@ The system operates entirely using **in-memory data structures** (no database).
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Programming Language: **Python 3**
 - Testing Framework: **unittest**
@@ -31,17 +31,26 @@ The system operates entirely using **in-memory data structures** (no database).
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 library-se/
+
 ├── src/
+
 │ └── library.py
+
 ├── tests/
+
 │ └── test_library.py
+
 ├── docs/
+
 │ ├── USER_STORIES.md
+
 │ └── TRACEABILITY.md
+
 ├── README.md
+
 └── .gitignore
 
 
@@ -152,4 +161,5 @@ git log --all --oneline --decorate --graph
 ## 📜 License
 
 This project was developed for academic purposes as part of a university assignment.
+
 
