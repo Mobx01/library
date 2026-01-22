@@ -36,21 +36,13 @@ The system operates entirely using **in-memory data structures** (no database).
 library-se/
 
 ├── src/
-
 │ └── library.py
-
 ├── tests/
-
 │ └── test_library.py
-
 ├── docs/
-
 │ ├── USER_STORIES.md
-
 │ └── TRACEABILITY.md
-
 ├── README.md
-
 └── .gitignore
 
 
@@ -161,5 +153,6 @@ git log --all --oneline --decorate --graph
 ## 📜 License
 
 This project was developed for academic purposes as part of a university assignment.
+
 
 
