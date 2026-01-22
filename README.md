@@ -27,38 +27,15 @@ The system operates entirely using **in-memory data structures** (no database).
 - Programming Language: **Python 3**
 - Testing Framework: **unittest**
 - Version Control: **Git & GitHub**
-- Database: **Not used (in-memory only)**
 
 ---
-
-##  Project Structure
-
-library-se/
-
-├── src/
-│
-│ └── library.py
-│
-├── tests/
-│
-│ └── test_library.py
-│
-├── docs/
-│
-│ ├── USER_STORIES.md
-│ 
-│ └── TRACEABILITY.md
-│
-├── README.md
-│
-└── .gitignore
 
 
 ---
 
-## 🚀 How to Run This Project on Your Computer
+##  How to Run This Project on Your Computer
 
-### 1️⃣ Prerequisites
+### 1️ Prerequisites
 
 Ensure the following are installed:
 
@@ -70,14 +47,14 @@ git --version
 
 ---
 
-### 2️⃣ Clone the Repository
+### 2️ Clone the Repository
 
 git clone <repository-url>
 cd library
 
 ---
 
-### 3️⃣ Run Unit Tests (Recommended)
+### 3️ Run Unit Tests (Recommended)
 
 This project does not include a graphical interface.  
 All functionality is validated through **unit tests**.
@@ -89,7 +66,7 @@ If all tests pass, the system is working correctly.
 
 ---
 
-## 🧪 How the System Works
+## How the System Works
 
 ### Add Book
 - A book is added with a unique Book ID, title, and author.
@@ -111,7 +88,7 @@ If all tests pass, the system is working correctly.
 
 ---
 
-## 🔁 Agile Development & Git Workflow
+##  Agile Development & Git Workflow
 
 This project was implemented using **three Agile sprints**.
 
@@ -132,7 +109,7 @@ This project was implemented using **three Agile sprints**.
 
 ---
 
-## 🔍 Useful Git Verification Commands
+##  Useful Git Verification Commands
 
 git branch -r
 git tag
@@ -149,7 +126,7 @@ git log --all --oneline --decorate --graph
 
 ---
 
-## ✅ Key Learnings
+##  Key Learnings
 
 - Agile sprint planning and execution
 - Git branching, merging, and tagging discipline
@@ -158,9 +135,10 @@ git log --all --oneline --decorate --graph
 
 ---
 
-## 📜 License
+##  License
 
 This project was developed for academic purposes as part of a university assignment.
+
 
 
 
